@@ -3,5 +3,10 @@ public class Runner {
 
         //version 1
         System.out.println("hello GIT");
+
+
+        //versiyon 4
+        System.out.println("hi");
+
     }
 }
